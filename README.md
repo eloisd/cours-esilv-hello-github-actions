@@ -8,7 +8,7 @@
 -->
 
 
-# Hello GitHub Actions 🍆
+# Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
 
